@@ -1,3 +1,2 @@
 # Motion of the Ocean (MOTO)
-#
-# julia code for learning physical oceanography
+Julia code for learning physical oceanography
